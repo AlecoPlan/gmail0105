@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="fastdfs-client-java" />
+        <module name="wzy-manage-service" />
+        <module name="wzy-common-util" />
+        <module name="wzy-shop-user" />
+        <module name="wzy-api" />
+        <module name="wzy-service-util" />
+        <module name="wzy-user-service" />
+        <module name="wzy-user-web" />
+        <module name="wzy-web-util" />
+        <module name="wzy-manage-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="fastdfs-client-java" target="1.6" />
+      <module name="wzy-api" target="1.8" />
+      <module name="wzy-common-util" target="1.8" />
+      <module name="wzy-manage-service" target="1.8" />
+      <module name="wzy-manage-web" target="1.8" />
+      <module name="wzy-parent" target="1.8" />
+      <module name="wzy-service-util" target="1.8" />
+      <module name="wzy-shop-user" target="1.8" />
+      <module name="wzy-user-service" target="1.8" />
+      <module name="wzy-user-web" target="1.8" />
+      <module name="wzy-web-util" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="wzy-common-util" options="" />
+      <module name="wzy-manage-service" options="" />
+      <module name="wzy-manage-web" options="" />
+      <module name="wzy-service-util" options="" />
+      <module name="wzy-shop-user" options="" />
+      <module name="wzy-user-service" options="" />
+      <module name="wzy-user-web" options="" />
+      <module name="wzy-web-util" options="" />
+    </option>
+  </component>
+</project>

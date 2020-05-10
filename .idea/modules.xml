@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fastdfs-client-java/fastdfs-client-java.iml" filepath="$PROJECT_DIR$/fastdfs-client-java/fastdfs-client-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/shop.iml" filepath="$PROJECT_DIR$/.idea/shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wzy-api/wzy-api.iml" filepath="$PROJECT_DIR$/wzy-api/wzy-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wzy-common-util/wzy-common-util.iml" filepath="$PROJECT_DIR$/wzy-common-util/wzy-common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wzy-manage-service/wzy-manage-service.iml" filepath="$PROJECT_DIR$/wzy-manage-service/wzy-manage-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wzy-manage-web/wzy-manage-web.iml" filepath="$PROJECT_DIR$/wzy-manage-web/wzy-manage-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wzy-parent/wzy-parent.iml" filepath="$PROJECT_DIR$/wzy-parent/wzy-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wzy-service-util/wzy-service-util.iml" filepath="$PROJECT_DIR$/wzy-service-util/wzy-service-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wzy-shop-user/wzy-shop-user.iml" filepath="$PROJECT_DIR$/wzy-shop-user/wzy-shop-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wzy-user-service/wzy-user-service.iml" filepath="$PROJECT_DIR$/wzy-user-service/wzy-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wzy-user-web/wzy-user-web.iml" filepath="$PROJECT_DIR$/wzy-user-web/wzy-user-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wzy-web-util/wzy-web-util.iml" filepath="$PROJECT_DIR$/wzy-web-util/wzy-web-util.iml" />
+    </modules>
+  </component>
+</project>
